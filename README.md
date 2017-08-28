@@ -11,4 +11,5 @@ it will get all 'cmdline' from all processes, then one can pipe grep to limit re
 ## findproc
 
 finds a parameter in /proc/sys and prints it.
-usage: pyhton findproc.py --find=mmap_min_addr (example)
+
+usage: python findproc.py --find=mmap_min_addr (example)
